@@ -49,5 +49,7 @@ Bienvenido al repositorio de la API Rest desarrollada con **Python**, **FastAPI*
 
 1. **Clonar el repositorio**:  
    ```bash
-   git clone https://github.com/tu-usuario/fastapi-mongodb-movies.git
-   cd fastapi-mongodb-movies
+   git clone https://github.com/imeshinnovation/netixConda.git
+   cd netixConda
+   python -m pip install requirements.txt
+   python app.py
