@@ -5,8 +5,8 @@
 **Rol:** Ingeniero de Software | Especialista en Seguridad de la Información | Desarrollador Full Stack MERN  
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![fastAPI](https://fastapi.tiangolo.com/)]
-[![Python](https://www.python.org/)]
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-009688?logo=fastapi&logoColor=white&style=for-the-badge)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 
 
 Bienvenido al repositorio de la API Rest desarrollada con **Python**, **FastAPI** y **MongoDB**, diseñada para gestionar usuarios y películas de manera eficiente.  
