@@ -28,9 +28,9 @@ Bienvenido al repositorio de la API Rest desarrollada con **Python**, **FastAPI*
 ### 👥 Usuarios  
 - `GET /users/` → Obtener información de los usuarios.
 - `GET /users/{id}` → Obtener información de un usuario.
+- `POST /users/` → Crear cuenta de usuario.
 - `PUT /users/{id}` → Actualizar información del usuario.  
 - `DELETE /users/{id}` → Eliminar cuenta de usuario.
-- `POST /users/` → Crear cuenta de usuario.
 
 ### 🎬 Películas  
 - `GET /movies/` → Obtener todas las películas (con filtros opcionales).  
