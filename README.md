@@ -1,4 +1,13 @@
 # API Rest para Gestión de Usuarios y Películas 🎬👥  
+---
+
+**Autor:** Alexander Rubio Cáceres  
+**Rol:** Ingeniero de Software | Especialista en Seguridad de la Información | Desarrollador Full Stack MERN  
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![fastAPI](https://fastapi.tiangolo.com/)]
+[![Python](https://www.python.org/)]
+
 
 Bienvenido al repositorio de la API Rest desarrollada con **Python**, **FastAPI** y **MongoDB**, diseñada para gestionar usuarios y películas de manera eficiente.  
 
